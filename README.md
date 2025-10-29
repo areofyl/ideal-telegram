@@ -51,4 +51,4 @@ This tool is lightweight, customizable, and designed for scenarios where human-l
    cd ideal-telegram
 2. Run the python file:
    ```bash
-   python3 ideal-telegram.py
+   python3 main.py
